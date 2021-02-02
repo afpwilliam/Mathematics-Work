@@ -7,7 +7,9 @@ Contents include:
 
 (2) Document 2: A preprint and proof of the DeGiorgi-Nash-Moser Holder estimates for elliptic equations in divergence form
 
-(3) Document 3: My directed-reading-project presentation on a Bishop-Gromov inequatliy, and a following Bishop Comparison Theorem. 
+(3) Document 3: Notes on an introduction to statistical physics and kinetic theory from a Summer 2018 reading course. 
+
+
 
 
 
